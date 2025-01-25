@@ -2,6 +2,8 @@
 
 A classic implementation of the iconic Pong game, built with HTML5 Canvas and JavaScript. This version features both single-player and multiplayer modes with a retro-style interface.
 
+Demo is live at https://makalin.github.io/Retro-Pong/
+
 ## Features
 
 - Classic Pong gameplay mechanics
