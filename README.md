@@ -32,12 +32,12 @@ Demo is live at https://makalin.github.io/Retro-Pong/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/retro-pong.git
+git clone https://github.com/makalin/Retro-Pong.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd retro-pong
+cd Retro-Pong
 ```
 
 3. Open `index.html` in your preferred web browser
